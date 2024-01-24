@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="FilesContentsFilter:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/FilesContentsFilter_jar</output-path>
-    <root id="archive" name="FilesContentsFilter.jar">
+  <artifact type="jar" build-on-make="true" name="FilesContentFilter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FilesContentFilter_jar</output-path>
+    <root id="archive" name="FilesContentFilter.jar">
       <element id="module-output" name="FilesContentFilter" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../../../commons-lang3-3.14.0.jar" path-in-jar="/" />
     </root>

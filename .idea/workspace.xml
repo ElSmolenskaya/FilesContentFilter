@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1555368-7c6f-4584-821d-bc4730ad2050" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FilesContentsFilter_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilesContentFilter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/FilesContentFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/NumbersStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/Statistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/StringsStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter/model/NumbersStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter/model/Statistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FilesContentsFilter_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FilesContentFilter_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/FilesContentFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter/model/FilesContentFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/NumbersStatistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/Statistic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_contents_filter/model/StringsStatistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter/model/StringsStatistic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,34 +42,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/victory/Desktop/JavaProgramming/CFT Shift/FilesContentsFilter/out/artifacts/FilesContentsFilter_jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/victory/Desktop/JavaProgramming/CFT Shift/FilesContentFilter/out/artifacts/FilesContentFilter_jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/artifacts/FilesContentFilter_jar" />
       <recent name="$PROJECT_DIR$/out/artifacts/FilesContentsFilter_jar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/artifacts/FilesContentFilter_jar" />
+      <recent name="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter/model" />
+      <recent name="$PROJECT_DIR$/src/ru/academits/smolenskaya/files_content_filter" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ru.academits.smolenskaya.files_contents_filter.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.academits.smolenskaya.files_contents_filter.main.Main" />
+    <configuration name="ru.academits.smolenskaya.files_content_filter.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.academits.smolenskaya.files_content_filter.main.Main" />
       <module name="FilesContentFilter" />
       <option name="PROGRAM_PARAMETERS" value="t" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.academits.smolenskaya.files_contents_filter.main.*" />
+          <option name="PATTERN" value="ru.academits.smolenskaya.files_content_filter.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,7 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.academits.smolenskaya.files_contents_filter.main.Main" />
+        <item itemvalue="Application.ru.academits.smolenskaya.files_content_filter.main.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +100,18 @@
       <option name="presentableId" value="Default" />
       <updated>1704892589239</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создан проект &quot;Утилита фильтрации содержимого файлов&quot;">
+      <created>1705584032413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705584032413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создан проект &quot;Утилита фильтрации содержимого файлов&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создан проект &quot;Утилита фильтрации содержимого файлов&quot;" />
   </component>
 </project>

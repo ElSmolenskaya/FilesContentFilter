@@ -1,6 +1,6 @@
-package ru.academits.smolenskaya.files_contents_filter.model;
+package ru.academits.smolenskaya.files_content_filter.model;
 
-public class StringsStatistic implements Statistic<String> {
+public class StringsStatistic implements Statistic {
     private int minimalStringLength;
     private int maximalStringLength;
 
@@ -21,7 +21,7 @@ public class StringsStatistic implements Statistic<String> {
 
     @Override
     public String getStatistic() {
-        return "minimal string length = " + minimalStringLength + System.lineSeparator() +
-                "maximal string length = " + maximalStringLength;
+        return "Minimal string length = " + minimalStringLength + System.lineSeparator() +
+                "Maximal string length = " + maximalStringLength;
     }
 }

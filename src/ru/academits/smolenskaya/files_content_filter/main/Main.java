@@ -1,6 +1,6 @@
-package ru.academits.smolenskaya.files_contents_filter.main;
+package ru.academits.smolenskaya.files_content_filter.main;
 
-import ru.academits.smolenskaya.files_contents_filter.model.FilesContentFilter;
+import ru.academits.smolenskaya.files_content_filter.model.FilesContentFilter;
 
 import java.util.ArrayList;
 
